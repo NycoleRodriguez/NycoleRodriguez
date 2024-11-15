@@ -2,7 +2,7 @@
 
 - 📖 Sou estudante de ADS e IT.
 - 📚 Entusiata de tecnologias retrô e desenvolvimentos de jogos eletrônicos e Web3.
-- 🌺 voltado a estudo e testes 
+- 🌺 Voltado a estudo e testes 
 
  <div>
   <a href= "https://www.linkedin.com/in/nycole-pio-rodrigues/">
