@@ -1,11 +1,33 @@
-- 👋 Hi, I’m Nycole
-- 👀 Possuo interesse in IT ...
-- 🌱 I’m currently learning Desenvolvimento de sofware...
-- 💞️ I’m looking to collaborate on repositórios de desenvolvimento web...
-- 📫 How to reach me ...nycolepio244@gmail.com ----> Linkedln: nycole-pio-rodrigues
-- ⚡ Fun fact: uma oculta biomedica apaixonada por desenvolvimento web e dados.
+## Olá, eu sou a Nycole 🖖
 
-<!---
-NycoleRodriguez/NycoleRodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📖 Sou estudante de ADS e IT.
+- 📚 Entusiata de tecnologias retrô e desenvolvimentos de jogos eletrônicos e Web3.
+- 🌺 voltado a estudo e testes 
+
+ <div>
+  <a href= "https://www.linkedin.com/in/nycole-pio-rodrigues/">
+  <a href= "mailto:nycolepio244@gmail.com">
+  </div> 
+  
+  ## Tecnologias  📙
+  <div style="display: inline_block"><br>
+    <img align="center" alt="emilia-Dart" height="50" width="50"  img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />        
+    <img align="center" alt="emilia-fluttter" height="50" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" / >   
+  <img align= "center" alt="emilia-android" height="50" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
+   <img align= "center " alt="emilia-solidity" height="50" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" />  
+   <img align="center" alt="emilia-js" height="50" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+   <img align="center" alt="emilia-Java" heigth="50" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
+       <img align= "center " alt="emilia-git" height="50" width="50"  img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />    
+       <img align= "center" alt= "emilia-vs" height="50" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
+    </div>
+   
+  ## Redes sociais para contato 📰
+   
+  <div>
+    <a href= "https://www.linkedin.com/in/emilia-gabrielly-5431b51b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href= "mailto:emiliapb474@gmail.com" target= "_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href= "https://www.instagram.com/uni_gata/"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+   
+     
+  </div>
